@@ -1,0 +1,48 @@
+.user-details{
+    display: flex;
+   
+}
+.user{
+    display: block;
+    
+}
+.user-1{
+    border: 1px solid rgb(161, 218, 224);
+    border-radius: 5px;
+    height: 150px;
+    width: 400px;
+    margin: 10px 80px;
+}
+.user-1 h4{
+    background-color: rgb(161, 218, 224);
+    margin: 0;
+    padding: 5px;
+}
+.user-1 label{
+    margin-bottom: 50px;
+}
+ .button button{
+    cursor: pointer;
+    font-weight: bold;
+    margin: 30px;
+    background-color: rgb(161, 218, 224);
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+}
+.button button:hover{
+    background-color: rgb(166, 233, 228);
+}
+.details{
+    margin: 10px 60px;
+    height: 310px;
+    width: 40%;
+    
+    border-radius: 5px;
+    border: 1px solid rgb(161, 218, 224);
+}
+.details h4{
+    background-color: rgb(161, 218, 224);
+    margin: 0;
+    padding: 5px;
+}
